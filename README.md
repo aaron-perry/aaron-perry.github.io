@@ -1,5 +1,3 @@
-# aaron-perry.github.io
-
 <!doctype html>
 <html>
   <head>
